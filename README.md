@@ -11,5 +11,5 @@
 - [x] <a href="https://discord.gg/bUP9pgWDSt">discord</a>
 
 ## Stuff:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&center=true&lines=Discord.py+bots;Random+projects+I+think+are+cool;HTML+CSS+and+JS;General+python;Windows+user;I+do+not+like+heroku;I+can't+think+of+anything+to+type+here)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&background=000000&lines=Discord.py+bots;Random+projects+I+think+are+cool;HTML+CSS+and+JS;General+python;Windows+user;I+do+not+like+heroku;I+can't+think+of+anything+to+type+here)](https://git.io/typing-svg)
 <br/>
