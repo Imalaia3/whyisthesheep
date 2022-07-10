@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm whyisthesheep</h1>
 <h3 align="center">I do python, Node JS, HTML(+CSS+JS) and a variety of other stuff</h3>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?whyisthesheep&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=whyisthesheep&show_icons=true&theme=radical)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyisthesheep)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyisthesheep&show_icons=true&theme=radical)
 <br/>
 ## Links
 - [x] <a href="https://replit.com/whyisthesheep">replit</a>
