@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm whyisthesheep</h1>
 <h3 align="center">I do python, Node JS, HTML(+CSS+JS) and a variety of other stuff</h3>
-
 <br/>
-<a href="https://www.venganza.org">![image](https://user-images.githubusercontent.com/77189741/178151848-b952b0b7-3e38-48d0-bcdb-d9ea70dda19b.png)</a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?whyisthesheep&show_icons=true&theme=radical)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyisthesheep)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 ## Links
 - [x] <a href="https://replit.com/whyisthesheep">replit</a>
 - [x] <a href="https://discord.gg/bUP9pgWDSt">discord</a>
