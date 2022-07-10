@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm whyisthesheep</h1>
-<h3 align="center">I do python, Node JS, HTML(+CSS+JS) and a variety of other stuff</h3>
+<h3 align="center">I do python, HTML(+CSS+JS) and a variety of other stuff</h3>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=whyisthesheep&hide_border=true&date_format=j%20M%5B%20Y%5D"></img>
 <br/>
